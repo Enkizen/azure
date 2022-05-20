@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualNetworks_vnet_hub_name": {
-            "value": null
+            "value": "vnet-hub-1"
         },
         "virtualNetworks_vnet_spoke1_name": {
-            "value": null
+            "value": "vnet-spoke-1"
         }
     }
 }
